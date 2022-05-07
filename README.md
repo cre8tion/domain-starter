@@ -14,10 +14,3 @@ If you use VSCode to build your app, we included a list of suggested extensions 
 
 ### **Questions?**
 Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
-
-### A note on contract redeploys
-
-Let's say you want to change your contract. You'd need to do 3 things:
-We need to deploy it again.
-We need to update the contract address on our frontend.
-We need to update the abi file on our frontend.
